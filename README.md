@@ -25,9 +25,13 @@ An AI-driven application that automates the process of screening and ranking res
 📚 Tech Stack
 
 Frontend: Streamlit
+
 Backend: Python
+
 Libraries:
 PyPDF2 – for PDF text extraction
+
 scikit-learn – for TF-IDF vectorization and cosine similarity
+
 pandas – for data manipulation and result visualization
 
